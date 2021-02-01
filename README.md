@@ -9,8 +9,8 @@ passwrd is a Python script that generates a random, secure password for online u
    - A completely random string of letters, digits, and special characters is very secure. Although, these types of passwords are usually harder to memorize.
    - For example: Y2?{f\*0&nbsp;
    
-Resources on developing strong passwords:&nbsp;
-https://support.mozilla.org/en-US/kb/create-secure-passwords-keep-your-identity-safe&nbsp;
-https://support.google.com/accounts/answer/32040?hl=en&nbsp;
+Resources on developing strong passwords:<br/>
+https://support.mozilla.org/en-US/kb/create-secure-passwords-keep-your-identity-safe<br/>
+https://support.google.com/accounts/answer/32040?hl=en<br/>
 https://blog.avast.com/strong-password-ideas 
    
