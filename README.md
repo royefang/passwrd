@@ -7,4 +7,10 @@ passwrd is a Python script that generates a random, secure password for online u
    - For example: The quick brown fox jumps over the lazy dog --> !42tqbFjOTLD:
 2. Generate a completely arbitrary password
    - A completely random string of letters, digits, and special characters is very secure. Although, these types of passwords are usually harder to memorize.
-   - For example: Y2?{f\*0
+   - For example: Y2?{f\*0&nbsp;
+   
+Resources on developing strong passwords:
+https://support.mozilla.org/en-US/kb/create-secure-passwords-keep-your-identity-safe
+https://support.google.com/accounts/answer/32040?hl=en
+https://blog.avast.com/strong-password-ideas
+   
