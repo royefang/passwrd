@@ -10,7 +10,7 @@ passwrd is a Python script that generates a random, secure password for online u
    - For example: Y2?{f\*0&nbsp;
    
 Resources on developing strong passwords:
-https://support.mozilla.org/en-US/kb/create-secure-passwords-keep-your-identity-safe
-https://support.google.com/accounts/answer/32040?hl=en
-https://blog.avast.com/strong-password-ideas
+https://support.mozilla.org/en-US/kb/create-secure-passwords-keep-your-identity-safe &nbsp;
+https://support.google.com/accounts/answer/32040?hl=en &nbsp;
+https://blog.avast.com/strong-password-ideas 
    
